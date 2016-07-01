@@ -1,0 +1,4 @@
+logging\actuator\log4j\ServiceProperties.class
+logging\actuator\log4j\SampleController.class
+logging\actuator\log4j\SampleActuatorApplication.class
+logging\actuator\log4j\HelloWorldService.class
